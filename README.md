@@ -19,8 +19,8 @@ Top 3 States (TX, NY, CA) contribute to 68% of overall transactions
 Overall Activation Rate: 57.5%
 Overall Delinquent Rate: 6.06%
 ## Tool Used:
-PostgreSQL
-Power BI
+1. PostgreSQL
+2. Power BI
 # Author:
 Karan Parmar
 
